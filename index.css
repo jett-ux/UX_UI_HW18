@@ -2,7 +2,7 @@
 .logo {
     background: black;
     height: 230px;
-    background-image: url("/image/jakes-logo.png");
+    background-image: url("image/jakes-logo.png");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -71,19 +71,19 @@
 
 .meal1 {
     margin-top:20px;
-    background-image: url("/image/steak.png");
+    background-image: url("image/steak.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .meal2 {
-    background-image: url("/image/soup.png");
+    background-image: url("image/soup.png");
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .meal3 {
-    background-image: url("/image/cheesecake.png");
+    background-image: url("image/cheesecake.png");
     background-repeat: no-repeat;
     background-position: center;
 }
